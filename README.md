@@ -35,7 +35,7 @@ MedSupply360 is a full-featured backend API for managing pharmacy inventory, tra
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/YourUsername/MedSupply360.git
+git clone https://github.com/LaurianeH-05/MedSupply360.git
 cd MedSupply360
 pip install -r requirements.txt
 uvicorn main:app --reload
